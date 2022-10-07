@@ -1,6 +1,6 @@
 # ISSTracker
 ISSTracker is an intermediate program written in Python that notifies you with an email when the ISS satellite is overhead so
-you can watch ride in the sky
+you can watch it ride the clouds in the sky at night
 
 # Note | Prerequisites to run this program
 
